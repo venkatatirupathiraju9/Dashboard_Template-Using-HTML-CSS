@@ -1,0 +1,532 @@
+@media (min-width:360px)and(max-width:980px) {
+    body{
+    font-size: 50px;
+    background-color: lightpink 
+    }
+}
+
+
+
+
+
+body{
+    background-color: whitesmoke;
+}
+.logo{
+    color:  aliceblue;
+    background-color: black;
+    top: 0px;
+    left: 0px;
+    height: 50px;
+    width: 100%;
+    position: sticky;
+    text-align: end;
+
+
+}
+#right{
+    background-color: white;
+    width: 300px;
+    height: 700px;
+
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: -1;
+    
+}
+aside img{
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: 20px;
+    left: 20px;
+    border-radius: 50%;
+
+}
+aside h4{
+    position: relative;
+    top: -50px;
+    left: 90px;
+
+}
+aside i{
+    position: relative;
+    top: -75px;
+    left: 90px;
+    justify-content: space-evenly;
+    margin: 15px;
+}
+aside hr{
+    position: relative;
+    top: -60px;
+    color:white;
+}
+aside p{
+    margin: 20px;
+    margin-top: -50px;
+    font-style: italic;
+    font-size: 20px;
+}
+
+
+.info p{
+    font-size: 16px;
+    font-weight: 800;
+    margin: -120px;
+    margin-top: 90px;
+    margin-left: -95px;
+    text-decoration: none;
+    
+}
+.info p i:hover{
+    background-color: gray;
+    width: 290px;
+    height: 30px;
+
+}
+.nani{
+    padding: 40px;
+    margin-top: -690px;
+    margin-left: 300px;
+}
+.nani h4{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+.comment{
+    margin-left: 340px;
+    margin-top: -40px;
+    background-color: rgb(251, 65, 65);
+    width: 270px;
+    height: 130px;
+    display: inline-block;
+}
+.comment i{
+    font-size: 55px;
+    color: white;
+    margin: 15px;
+}
+.comment p{
+    font-size: 20px;
+    margin: -1px;
+    margin-left: 15px;
+    color: beige;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.no1{
+    color: beige;
+    margin-top: -150px;
+    margin-left: 540px;
+}
+.no1 h3{
+    font-size: 40px;
+}
+.no1 b{
+    font-size: 30px;
+}
+.content1{
+    margin-left: 630px;
+    margin-top: -106px;
+    background-color: rgb(90, 186, 218);
+    width: 270px;
+    height: 130px;
+}
+.comment1 i{
+    font-size: 55px;
+    color: white;
+    margin: 15px;
+}
+.comment1 p{
+    font-size: 20px;
+    margin-top: -5px;
+    margin-left: 15px;
+    color: beige;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.no2 h3{
+    color: bisque;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: -110px;
+    margin-left: 200px;
+}
+.content2{
+    margin-left: 920px;
+    margin-top: -130px;
+    background-color: rgb(45, 108, 129);
+    width: 270px;
+    height: 130px;
+    display: flex;
+}
+.comment2 i{
+    color: beige;
+    font-size: 40px;
+    margin: 22px;
+
+}
+.comment2 p{
+    font-size: 20px;
+    margin: -5px;
+    margin-left: 15px;
+    color: beige;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.no3 p{
+    color: aliceblue;
+    font-size: 25px;
+    margin-top: 10px;
+    margin-left: 130px;
+}
+.no3 strong{
+    font-size: 30px;
+    font-family: cursive;
+}
+#content3{
+    margin-left: 1210px;
+    margin-top: -130px;
+    background-color: rgb(240, 142, 23);
+    width: 270px;
+    height: 130px;
+    display: flex;
+
+}
+.comment3 i{
+    margin: 30px;
+    font-size: 35px;
+    color: beige;
+}
+.comment3 p {
+    color: azure;
+    font-size: 20px;
+    font-weight: 450;
+    margin-top: -10px;
+    margin-left: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.no4 p {
+    margin-top: 20px;
+    margin-left: 130px;
+    font-size: 30px;
+    font-weight: 200;
+    color: bisque;
+
+}
+.no4 h3{
+    font-size: 25px;
+    margin-left: 145px;
+    margin-top: -64px;
+    font-weight: 0;
+    color: beige;
+}
+div img{
+    width: 380px;
+    height: 280px;
+    margin-left: 340px;
+    margin-top: -10px;
+}
+.region{
+    font-size: 20px;
+    font-weight: 400;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 340px;
+    margin-top: 20px;
+
+}
+.feed{
+    margin-left: 760px;
+    margin-top: -320px;
+    font-weight: 300;
+}
+.container{
+    background-color: rgb(251, 249, 249);
+    width: 735px;
+    height: 250px;
+    margin-left: 750px;
+    margin-top: -2px;
+
+
+    
+}
+.container tr:nth-child(odd){
+    background-color: lightgray;
+
+}
+.stats{
+    margin-left: 340px;
+    margin-top: 100px;
+    font-weight: 400;
+}
+.visit{
+    font-size: 18px;
+    margin-left: 340px;
+    font-weight: 400;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.bar1{
+    background-color: gray;
+    width: 1150px;
+    margin-left: 340px;
+
+}
+.bar2{
+    background-color: rgb(52, 200, 52);
+    padding: 10px;
+    width: 200px;
+    text-align: center;
+    font-style: oblique;
+
+}
+#user{
+    margin-left: 340px;
+    font-weight: 500;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.bar3{
+    background-color: gray;
+    width: 1150px;
+
+}
+.bar4{
+    background-color: darkorange;
+    padding: 10px;
+    width: 500px;
+    text-align: center;
+    font-style: oblique;
+}
+.bar5{
+    background-color: gray;
+    width: 1150px;
+
+}
+.bar6{
+    background-color: rgb(232, 62, 96);
+    padding: 10px;
+    width: 700px;
+    text-align: center;
+    font-style: oblique;
+}
+.country{
+    font-weight: 500;
+    font-size: 22px;
+    margin-top: 50px;
+}
+
+.united{
+    border: 0.001px solid gray;
+    width: 1150px;
+    height: 230px;
+
+}
+.united tr:nth-child(odd){
+    background-color: aliceblue;
+}
+.united tr:nth-child(even){
+    background-color: lightgray;
+}
+.united tr:hover{
+    background-color: gray;
+}
+.more{
+    margin-top: 30px;
+    font-size: 18px;
+    background-color:lightgray;
+    width: 145px;
+    height: 30px;
+}
+.more:hover{
+    background-color: gray;
+
+}
+.recent{
+    margin-top: 40px;
+    font-size: 18px;
+}
+.mike img{
+    width: 30px;
+    height: 30px;
+    border-radius: 100px;
+    margin-left: 20px;
+    margin-top: 5px;
+
+}
+.mike b{
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    margin-top: -30px;
+    margin-left: 20px;
+
+    
+}
+.jill img{
+    width: 30px;
+    height: 30px;
+    border-radius: 100px;
+    margin-left: 20px;
+    margin-top: 0.1px;
+
+}
+.jill b{
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    margin-left: 20px;
+    margin-top: -10px;
+
+}
+.jane img{
+    width: 30px;
+    height: 30px;
+    border-radius: 100px;
+    margin-left: 20px;
+    margin-top: 2px;
+
+}
+.jane b{
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    margin-left: 20px;
+    margin-top: -10px;
+
+}
+.container3{
+    background-color: white;
+    width: 1150px;
+    height: 160px;
+    box-shadow: 5px 5px gray;
+    margin-left: -5px;
+}
+.recent{
+    margin-top: 50px;
+    font-style: oblique;
+    font-size: 20px;
+    font-weight: 300;
+}
+.john img{
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.name1{
+    margin-left: 200px;
+    margin-top: -110px;
+}
+pre{
+    margin-left: 60px;
+    margin-top: -20px;
+    font-weight: 100;
+    font-size: 15px;
+}
+.par{
+    margin-left: 200px;
+    margin-top: -10px;
+    font-weight: 300;
+}
+.do img{
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+#name2{
+    margin-left: 200px;
+    margin-top: -110px;
+}
+.sep{
+    margin-left: 240px;
+    margin-top: -42px;
+    font-weight: 100;
+    font-size: 15px;
+}
+.par2{
+    margin-left: 200px;
+    margin-top: -10px;
+    font-weight: 300;
+}
+.demo summary{
+    margin-top: 80px;
+    margin-left: 50px;
+    font-size: 22px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 400;
+}
+.demo ul {
+    margin-top: 15px;
+    margin-left: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    text-decoration: none;
+}
+.green{
+    background-color: rgb(63, 215, 63);
+    padding: 2.2px;
+    margin-left: 50px;
+    margin-top: 5px;
+    width: 300px;
+}
+.system summary {
+    margin-top: -160px;
+    margin-left: 420px;
+    font-size: 22px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 400;
+}
+.system ul {
+    margin-top: 15px;
+    margin-left: 430px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    text-decoration: none;
+}
+.red{
+    background-color: rgb(244, 78, 78);
+    padding: 2.2px;
+    margin-left: 420px;
+    margin-top: 6px;
+    width: 300px;
+}
+.target summary{
+    margin-top: -158px;
+    margin-left: 780px;
+    font-size: 22px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 400;
+}
+.target ul {
+    margin-top: 20px;
+    margin-left: 850px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    text-decoration: none;
+}
+.yellow {
+    background-color: rgb(229, 229, 41);
+    padding: 2.2px;
+    margin-left: 780px;
+    margin-top: 6px;
+    width: 300px;
+}
+.bottom {
+    background-color: darkgray;
+    height: 250px;
+
+}
+.footer {
+    font-weight: 300;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 40px;
+}
